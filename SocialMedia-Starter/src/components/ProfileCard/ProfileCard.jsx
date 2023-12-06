@@ -34,7 +34,7 @@ function ProfileCard() {
         </div>
 
         <span>
-            My Pro
+            My Profile
         </span>
     </div>
   )
