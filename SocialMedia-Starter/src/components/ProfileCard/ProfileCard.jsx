@@ -16,6 +16,26 @@ function ProfileCard() {
             <span>Seniour UI/UX Designer</span>
             <span></span>
         </div>
+
+        <div className="followStatus">
+            <hr />
+            <div>
+                <div className="follow">
+                    <span>9,890</span>
+                    <span>Followings</span>
+                </div>
+                <div className="vl"></div>
+                <div className="follow">
+                    <span>3</span>
+                    <span>Followers</span>
+                </div>
+            </div>
+            <hr />
+        </div>
+
+        <span>
+            My Pro
+        </span>
     </div>
   )
 }
